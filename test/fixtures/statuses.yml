@@ -9,3 +9,7 @@ two:
   
   content: MyText
   user: hanna
+
+three:
+  content: "Hi I'm Jim"
+  user: Jim
